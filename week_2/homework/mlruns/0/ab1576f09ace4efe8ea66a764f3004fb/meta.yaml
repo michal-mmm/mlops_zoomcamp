@@ -1,0 +1,15 @@
+artifact_uri: file:///home/michal/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ab1576f09ace4efe8ea66a764f3004fb/artifacts
+end_time: 1653846325465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ab1576f09ace4efe8ea66a764f3004fb
+run_uuid: ab1576f09ace4efe8ea66a764f3004fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653846299395
+status: 3
+tags: []
+user_id: michal
